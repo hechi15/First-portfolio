@@ -76,3 +76,7 @@ hugo version
     - VS Code를 사용한다면 VS Code 터미널에서 `cd site`로 이동한 뒤 같은 명령을 입력해도 됩니다.
 
 3. 브라우저에서 http://localhost:1313/First-portfolio/ 를 엽니다.
+
+### 빌드만 확인하기
+
+- 변경 내용을 `main`에 push한 뒤 저장소의 **Actions** 탭에서 "Deploy Hugo to GitHub Pages" 실행이 초록 체크(성공)인지 확인해도 됩니다.
