@@ -15,7 +15,7 @@
 
 ## 사이트 구조와 수정 위치
 - 'site/content/_index.md': 이름과 소개 문장
-- 'site/content/abount.md': 관심 분야·학습 목표·역량
+- 'site/content/about.md': 관심 분야·학습 목표·역량
 - 'site/content/project.md': 프로젝트 활동 설명 및 회고
 - 'site/pages.json': 좌상단 메뉴 이름과 순서, 사이트 제목
 - 'site/static/images/': 페이지에 넣는 이미지 파일
@@ -24,7 +24,7 @@
 - 테마: [PaperMod](https://github.com/adityatelange/hugo-PaperMod) (MIT License). 원본 라이선스 파일은 그대로 유지했습니다.
 - 정적 사이트 생성기: [Hugo](https://gohugo.io/)
 
-### 직접 만든 부분과 AI 도움을 받은 부분
+### 작업 과정
 
 | 부분 | 작성 방식 |
 | --- | --- |
