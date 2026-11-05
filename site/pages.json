@@ -27,9 +27,9 @@
   "languageCode": "ko",
   "menu":{
     "main":[
-      { "name": "관심, 목표, 역량", "pageRef": "/about", "weight": 10 },
-      {"name": "프로젝트", "pageRef": "/project", "weight": 20},
-      { "name": "GitHub", "url": "https://github.com/hechi15", "weight": 20 }
+      { "name": "GitHub", "url": "https://github.com/hechi15", "weight": 20 },
+      { "name": "개인 소개", "pageRef": "/about", "weight": 10 },
+      {"name": "프로젝트", "pageRef": "/project", "weight": 20}
     ]
   }
 }
