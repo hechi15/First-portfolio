@@ -58,3 +58,21 @@
 ```bash
 hugo version
 ```
+### 실행 순서
+
+1. 저장소를 받고 `site` 폴더로 이동합니다.
+
+   ```bash
+   git clone https://github.com/hechi15/First-portfolio.git
+   cd First-portfolio/site
+   ```
+   - 혹은 저장소 내 site 폴더로 직접 이동하여 git bash를 사용하는 방법도 가능합니다.
+
+2. 로컬 서버를 실행합니다.
+
+   ```bash
+   hugo server --config pages.json --theme template --themesDir themes
+   ```
+    - VS Code를 사용한다면 VS Code 터미널에서 `cd site`로 이동한 뒤 같은 명령을 입력해도 됩니다.
+
+3. 브라우저에서 http://localhost:1313/First-portfolio/ 를 엽니다.
