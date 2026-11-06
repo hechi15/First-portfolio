@@ -15,3 +15,9 @@ button:focus-visible {
 .post-content table td {
   border: 1px solid var(--primary) !important;
 }
+
+/* 소제목 아래에 구분선을 넣어 구역을 나누기 */
+.post-content h2 {
+  padding-bottom: 6px;
+  border-bottom: 2px solid var(--border);
+}
