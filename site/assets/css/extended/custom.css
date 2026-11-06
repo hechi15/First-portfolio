@@ -27,3 +27,9 @@ button:focus-visible {
   font-weight: 800;
   border-bottom: 4px double var(--primary) !important;
 }
+
+.menu a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 8px;
+}
