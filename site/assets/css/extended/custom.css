@@ -33,3 +33,7 @@ button:focus-visible {
   text-decoration-thickness: 2px;
   text-underline-offset: 8px;
 }
+
+.menu a:focus-visible {
+  outline-offset: -3px;
+}
