@@ -23,6 +23,7 @@
     "template"
   ],
   "title": "임승현의 포트폴리오",
+    "params": { "description": "임승현의 개인 소개와 프로젝트를 정리한 포트폴리오 사이트입니다." },
     "defaultContentLanguage": "ko",
   "languageCode": "ko",
   "menu":{
