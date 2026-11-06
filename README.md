@@ -19,6 +19,7 @@
 - `site/content/project.md`: 프로젝트 활동 설명 및 회고
 - `site/pages.json`: 우상단 메뉴 이름과 순서, 사이트 제목
 - `site/static/images/`: 페이지에 넣는 이미지 파일
+- `.github/workflows/hugo-pages.yml`: GitHub에 올리면 사이트를 자동으로 빌드하고 배포하는 설정 파일
 
 ## 출처
 - 테마: [PaperMod](https://github.com/adityatelange/hugo-PaperMod) (MIT License). 원본 라이선스 파일은 그대로 유지했습니다.
