@@ -1,5 +1,7 @@
 ---
 title: "프로젝트"
+ShowToc: true
+TocOpen: true
 ---
 ## 실제 활동 내용
 - 비행기 피하기 게임(파이썬)
