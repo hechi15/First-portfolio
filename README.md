@@ -24,6 +24,7 @@
 ## 출처
 - 테마: [PaperMod](https://github.com/adityatelange/hugo-PaperMod) (MIT License). 원본 라이선스 파일은 그대로 유지했습니다.
 - 정적 사이트 생성기: [Hugo](https://gohugo.io/)
+- 배포 설정: 수업에서 제공한 GitHub Pages 배포 스크립트(`.github/pages_build.py`)와 워크플로를 사용했습니다.
 
 ### 작업 과정
 
