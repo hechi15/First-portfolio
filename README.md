@@ -22,11 +22,6 @@
 - `.github/workflows/hugo-pages.yml`: GitHub에 올리면 사이트를 자동으로 빌드하고 배포하는 설정 파일
 - `site/assets/css/extended/custom.css`: 사이트 모양을 바꾸는 CSS 파일
 
-## 출처
-- 테마: [PaperMod](https://github.com/adityatelange/hugo-PaperMod) (MIT License). 원본 라이선스 파일은 그대로 유지했습니다.
-- 정적 사이트 생성기: [Hugo](https://gohugo.io/)
-- 배포 설정: 수업에서 제공한 GitHub Pages 배포 스크립트(`.github/pages_build.py`)와 워크플로를 사용했습니다.
-
 ## 스타일(CSS) 수정
 
 테마 기본 모양 위에 `site/assets/css/extended/custom.css`로 아래 꾸밈을 추가했습니다.
@@ -36,6 +31,11 @@
 | 키보드 포커스 표시 | Tab 키로 이동할 때 현재 위치를 파란 굵은 테두리로 보여 줍니다. |
 | 이미지 테두리 | 프로젝트 화면 이미지에 테두리와 그림자를 넣어 배경과 구분합니다. |
 | 표 선 색상 | 라이트 모드는 검은 선, 다크 모드는 흰 선으로 표의 칸을 또렷하게 합니다. |
+
+## 출처
+- 테마: [PaperMod](https://github.com/adityatelange/hugo-PaperMod) (MIT License). 원본 라이선스 파일은 그대로 유지했습니다.
+- 정적 사이트 생성기: [Hugo](https://gohugo.io/)
+- 배포 설정: 수업에서 제공한 GitHub Pages 배포 스크립트(`.github/pages_build.py`)와 워크플로를 사용했습니다.
 
 ### 작업 과정
 
